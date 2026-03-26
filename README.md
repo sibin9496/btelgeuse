@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Sibin
 🌱 I’m currently learning Advanced MERN Stack & modern web technologies<br>🚀 I’m building scalable and user-focused full stack applications<br>🤝 I’m open to collaborating on impactful and innovative projects<br>💡 Interested in backend performance & system design<br>💬 Ask me about MERN Stack, APIs, and web development<br>⚡ Fun fact: I enjoy solving real-world problems through code<br>
 
 
